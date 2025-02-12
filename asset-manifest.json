@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Acquame-Web/static/css/main.68c7abc2.css",
-    "main.js": "/Acquame-Web/static/js/main.3ba6fffc.js",
+    "main.js": "/Acquame-Web/static/js/main.290c6c3e.js",
     "static/js/488.7b9f3b26.chunk.js": "/Acquame-Web/static/js/488.7b9f3b26.chunk.js",
     "static/media/insight_suggestion.png": "/Acquame-Web/static/media/insight_suggestion.2dfa9bf61c4247ec7f5c.png",
     "static/media/mental_banner.png": "/Acquame-Web/static/media/mental_banner.4824ca76e37ecf320b8e.png",
@@ -67,11 +67,11 @@
     "static/media/roboto-greek-ext-400-normal.woff": "/Acquame-Web/static/media/roboto-greek-ext-400-normal.16eb83b4a3b1ea994243.woff",
     "index.html": "/Acquame-Web/index.html",
     "main.68c7abc2.css.map": "/Acquame-Web/static/css/main.68c7abc2.css.map",
-    "main.3ba6fffc.js.map": "/Acquame-Web/static/js/main.3ba6fffc.js.map",
+    "main.290c6c3e.js.map": "/Acquame-Web/static/js/main.290c6c3e.js.map",
     "488.7b9f3b26.chunk.js.map": "/Acquame-Web/static/js/488.7b9f3b26.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.68c7abc2.css",
-    "static/js/main.3ba6fffc.js"
+    "static/js/main.290c6c3e.js"
   ]
 }
